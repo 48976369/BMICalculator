@@ -6,7 +6,7 @@
 
 ##執行說明
 
-1\. 使用 Visual Studio 開啟 `BMICalculator.sln`
+1\. 使用 Visual Studio 開啟 `BMI計算機.sln`
 
 2\. 執行
 
